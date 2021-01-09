@@ -1,15 +1,15 @@
 # Penjumlahan Basis 9
-\
-Bahasa Pemrograman : Java
-\
-Program
+<br/>
+##Bahasa Pemrograman : Java
+<br/>
+##Program
 - Program penjumlahan sederhana dengan menggunakan dua bilangan basis 9 dan akan menghasilkan hasil penjumlahan basis 9
-\
-Cara Penggunaan Program
+<br/>
+##Cara Penggunaan Program
 -	Masukkan jumlah test case penjumlahan yang ingin dilakukan dengan mengisi angka 1 hingga max 1000x
 -	Masukkan dua bilangan, bilangan satu dengan bilangan dua dipisahkan dengan menggunakan spasi
-\
-Algoritma
+<br/>
+##Algoritma
 -	Buat class baru dengan deklarasi program mesinHitung
 -	Deklarasikan variabel String a, b, s dan sum
 a = Bilangan pertama
