@@ -1,7 +1,7 @@
 # Penjumlahan Basis 9
 
 Program
-Program penjumlahan sederhana dengan menggunakan dua bilangan basis 9 dan akan menghasilkan hasil penjumlahan basis 9
+- Program penjumlahan sederhana dengan menggunakan dua bilangan basis 9 dan akan menghasilkan hasil penjumlahan basis 9
 
 Cara Penggunaan Program
 -	Masukkan jumlah test case penjumlahan yang ingin dilakukan dengan mengisi angka 1 hingga max 1000x
